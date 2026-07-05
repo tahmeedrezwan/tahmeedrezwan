@@ -27,9 +27,3 @@ Outside of formal research, I study nature, human anatomy, and astronomy.
 
 - 🤝 **Collaborate:** I am always open to computational biology projects. 
 - 📬 **Reach Out:** Explore my repositories below or reach out directly.
-
----
-
-### 📊 GitHub Coding Stats
-![](https://vercel.app)
-![](https://vercel.app)
